@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-package",
+  "name": "test_publish",
   "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
+    "url": "git+https://github.com/LizaProg/test_publish.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "liza",
   "license": "ISC",
   "jest": {
     "testEnvironment": "node"
